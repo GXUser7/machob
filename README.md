@@ -1,1 +1,1 @@
-<img src='cat.gif'></img>
+![123](cat.gif)
