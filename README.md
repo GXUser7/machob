@@ -1,1 +1,1 @@
-![123](Сat.gif)
+![123](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg1azNiMTZ4bWt0djE2aThibHd6NHNsY3kxbHg1eHk4ZDlzOW1lbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91BCkba1STSmzb4UWK/giphy.gif)
